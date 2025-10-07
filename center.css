@@ -67,18 +67,6 @@
   text-align: center;
 }
 
-.left {
-  text-align: left;
-
-  /* Add customization here  */
-}
-
-.right {
-  text-align: right !important;
-
-  /* Add customization here  */
-}
-
 .indent {
   padding-left: 15px !important;
 
